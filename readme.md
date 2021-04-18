@@ -1,4 +1,4 @@
-### Hi there 👋, my name is Hatem
+<h2 align="center">Hi there 👋, my name is Hatem</h2> 
 
 #### I am React Native Mobile Developer
 
