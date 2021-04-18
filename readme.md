@@ -1,6 +1,6 @@
-<h2 align="center">Hi there 👋, my name is Hatem</h2> 
+<h1 align="center">Hi there 👋, my name is Hatem</h1> 
 
-<h1 align="center">I am React Native Mobile Developer with an eye of UI/UX Designer</h1> 
+<h2 align="center">I am React Native Mobile Developer with an eye of UI/UX Designer</h2> 
 
 #### 
 
