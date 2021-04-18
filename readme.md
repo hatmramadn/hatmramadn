@@ -1,10 +1,10 @@
 <h1 align="center">Hi there 👋, my name is Hatem</h1> 
 
-<h2 align="center">I am React Native Mobile Developer with an eye of UI/UX Designer</h2> 
+<h2 align="center">I am React Native Mobile Developer👨‍💻 with a UI/UX Designer eye 🥷</h2> 
 
 #### 
 
-A Self-Motivated JavaScript Developer 👨‍💻 with an eye of UI/UX Designer 🥷 skilled in React, React Native, Redux, Node, Express, MongoDB, GraphQL and Firebase.
+A Self-Motivated JavaScript Developer with a UI/UX Designer eye. skilled in React, React Native, Redux, Node, Express, MongoDB, GraphQL and Firebase.
 
 Also experienced in UX/UI Design with real strong portfolio, and many happy clients.
 
