@@ -2,11 +2,12 @@
 
 #### I am React Native Mobile Developer
 
-A Self-Motivated JavaScript Developer👨‍💻 skilled in React, React Native, Redux, Node, Express, MongoDB, GraphQL and Firebase.
+A Self-Motivated JavaScript Developer 👨‍💻 with an eye of UI/UX Designer 🥷 skilled in React, React Native, Redux, Node, Express, MongoDB, GraphQL and Firebase.
 
-Also experienced in UX/UI Design with a Real and strong Portfolio, and many happy clients.
+Also experienced in UX/UI Design with real strong portfolio, and many happy clients.
 
-So I can take an idea from just a thought and turn it into a real world product. 🚀
+So I can take an idea from just a thought and turn it into a real world product. 🚀 
+
 
 Skills: JavaScript / REACT / React Native / Node / Mongo / GraphQl
 
